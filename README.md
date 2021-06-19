@@ -1,2 +1,2 @@
-# Geologist-
-fgvdgggg
+# Geologist
+Geologist Project
